@@ -1,0 +1,112 @@
+{
+    "dir": "ltr",
+    "lang": "en-us",
+    "name": "glennspinks.com",
+    "scope": "/",
+    "display": "browser",
+    "start_url": "https://glennspinks.com/",
+    "short_name": "glennspinks.com",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/eb3b5670-f905-3a28-0d28-3b962e9d205f.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/92e53bc6-deb9-eaf0-88f1-2c3910d29537.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/windows10/SplashScreen.scale-200.png.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/afa23bb6-f53e-d34a-79c6-22344d749225.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f6deb5e5-9f8a-1364-3b40-8e3b077d0df3.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/6c204ce9-9473-e180-8f55-aeac97a79e61.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ed9da4a4-2b42-26f6-d3a9-ca105b07bab1.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/5338427c-8652-8ca2-4f7a-dea7ddc8552d.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/windows10/Wide310x150Logo.scale-200.png.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b6d49d30-8400-27cc-b6e7-87622a21deee.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/da1be6f7-3d11-8466-c885-10b8fb6a855e.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/9cdac237-01a8-26c9-8672-6fb0c5032f1f.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/03937019-ff8b-cbc3-5e61-859e1c5f0fd9.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/1f1f1a1b-f6ef-7252-f92e-cf9f85eb674a.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ios/ios-appicon-1024-1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/11465940-62d7-b86a-0866-037f9339ea64.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/54cde19f-d4b3-95a3-2e2d-0a663493f335.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/77d3212a-7c9e-9524-c9b3-827c10d6e35a.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0e3d421e-ce93-d295-06f5-3035c41c39ab.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
